@@ -1,6 +1,6 @@
 # 将Saaty’s scale标准转化为模糊区间
 from decimal import Decimal, ROUND_HALF_UP
-from utils import matrix_util
+import matrix_util
 import numpy
 import numpy as np
 
