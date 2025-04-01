@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import warnings
 import IntervaL_Fuzzy
-from utils import matrix_util
+import matrix_util
 
 # 这里的意思是求权重之前我们需要进行一致性检验
 # 参考：https://zhuanlan.zhihu.com/p/101505929
